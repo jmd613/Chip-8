@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/jason/Documents/Projects/Chip8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/usr/local/Cellar/sdl2/2.0.9_1/include/SDL2  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/Chip8.dir/src/main.cpp.o -c /Users/jason/Documents/Projects/Chip8/src/main.cpp",
+  "file": "/Users/jason/Documents/Projects/Chip8/src/main.cpp"
+},
+{
+  "directory": "/Users/jason/Documents/Projects/Chip8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/usr/local/Cellar/sdl2/2.0.9_1/include/SDL2  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/Chip8.dir/src/Chip8.cpp.o -c /Users/jason/Documents/Projects/Chip8/src/Chip8.cpp",
+  "file": "/Users/jason/Documents/Projects/Chip8/src/Chip8.cpp"
+}
+]

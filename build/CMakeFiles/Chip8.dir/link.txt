@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Chip8.dir/src/main.cpp.o CMakeFiles/Chip8.dir/src/Chip8.cpp.o  -o Chip8 -L/usr/local/Cellar/sdl2/2.0.9_1/lib  -lSDL2 
